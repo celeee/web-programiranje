@@ -1,0 +1,21 @@
+.progress {
+  background-color: #aaa;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  height: 30px;
+}
+
+#square {
+  background: #daecf8;
+  width: 450px;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+}
+
+#circle {
+  background: #d55c27;
+  border-radius: 50%;
+  width: 400px;
+  height: 250px;
+}
